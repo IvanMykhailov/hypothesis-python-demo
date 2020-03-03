@@ -3,6 +3,12 @@ Property-based test using hypothesis
 
 Demo for using hypothesis and hypothesis-gufunc libraries for DS tests
 
+Requirements
+------------
+- python3.7
+- make
+- browser
+
 Installation
 ------------
 - clone the repository
