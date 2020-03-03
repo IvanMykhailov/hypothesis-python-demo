@@ -1,0 +1,31 @@
+*.pyc
+__pycache__
+doc/build/*
+*coverage*
+.venv
+venv
+.venv2
+/logs/*
+.eggs
+.pytest_cache
+.idea
+black_swan.egg-info
+.mypy_cache
+violations_report.json
+dist
+build
+python-requirements
+.terraform
+cicd_plan
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+dist
+
+
+# ignore downloadable devops scripts
+/ops/bin/*
+!/ops/bin/config.ini
+!/ops/bin/download_scripts.sh

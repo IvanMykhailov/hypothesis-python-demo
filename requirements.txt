@@ -1,0 +1,9 @@
+mypy==0.711
+pylint==2.4.3
+jupyter==1.0.0
+numpy==1.18.1
+hypothesis==5.5.4
+ipytest==0.7.1
+pytest==5.2.2
+hypothesis-gufunc==0.0.6
+pandas==1.0.1
