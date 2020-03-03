@@ -17,6 +17,7 @@ build
 python-requirements
 .terraform
 cicd_plan
+notebook/.*
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
